@@ -2,7 +2,10 @@
 ## basic dataset
 - [Movie Lens Dataset](https://grouplens.org/datasets/movielens/1m/)
 - [Goodreads Dataset](https://sites.google.com/eng.ucsd.edu/ucsdbookgraph/home)(only use dataset "goodreads_books.json")
+- [Upper confidence Bound Dataset](https://www.kaggle.com/datasets/chaandsheikh/upper-confidence-bound-dataset?resource=download)
 
+  **Citation**:© Chaand sheikh
+    
 # Multi-Armed Bandit Algorithms
 
 This repository contains implementations of various Multi-Armed Bandit (MAB) algorithms, including ε-Greedy, Thompson Sampling, and Upper Confidence Bound (UCB). The algorithms are applied to a movie recommendation dataset to compare their performance in terms of cumulative regret.
