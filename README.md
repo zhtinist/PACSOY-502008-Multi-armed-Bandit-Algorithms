@@ -14,7 +14,7 @@ Before running the code, ensure you have Python installed on your system. You ca
 ## Installation
 
 1. **Clone the repository:**
-   ```bash
+   ```
    git clone https://github.com/your-username/multi-armed-bandit.git
    cd multi-armed-bandit
    ```
