@@ -21,6 +21,8 @@ Before running the code, ensure you have Python installed on your system. You ca
 
 2. **Install the required dependencies:**
    ```
+   pip install -r requirements.txt
+   ```
 The project relies on the following Python libraries: numpy, matplotlib, joblib, and scipy:
 
 numpy for numerical operations,
