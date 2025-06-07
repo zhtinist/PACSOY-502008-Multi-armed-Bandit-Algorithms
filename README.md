@@ -23,17 +23,6 @@ Before running the code, ensure you have Python installed on your system. You ca
    ```
    pip install -r requirements.txt
    ```
-The project relies on the following Python libraries: numpy, matplotlib, joblib, and scipy:
-
-numpy for numerical operations,
-
-matplotlib for visualization,
-
-joblib for parallel execution,
-
-scipy for statistical modeling (used in Bayes-UCB).
-   
-   ```
 
 3. **Download the MovieLens Dataset:**
    - The MovieLens dataset can be downloaded from [GroupLens](https://grouplens.org/datasets/movielens/1m/).
